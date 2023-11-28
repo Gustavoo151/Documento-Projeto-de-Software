@@ -73,7 +73,7 @@ O Sistema de Gestão de Agendamentos de Consultas tem como objetivo facilitar a 
 - Paciente
 
 ### Diagrama de Classes
-
+[Diagrama](https://lucid.app/lucidchart/5528dbf2-b1fd-4dbb-8d38-098e869cd45d/edit?invitationId=inv_ecc1903e-b7a7-4193-926f-94680b51ca0f&page=0_0#)
 ## Expectativas para a Implementação do Projeto
 
 **Contexto do Projeto:**
