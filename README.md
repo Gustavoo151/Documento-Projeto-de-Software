@@ -1,4 +1,6 @@
 ## Documentação do Projeto
+Esse foi um projeto desenvolvido na cadeira de Tópicos avançados em engenharia de Software.
+
 # Sistema de Gestão de Agendamentos de Consultas
 
 ## Descrição e Escopo do Projeto
