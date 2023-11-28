@@ -5,6 +5,7 @@
 
 O Sistema de Gestão de Agendamentos de Consultas tem como objetivo facilitar a marcação de consultas médicas, permitindo que os usuários escolham e agendem consultas com médicos de sua preferência. O sistema fornecerá um catálogo completo de médicos, informações sobre especialidades e disponibilidade de horários, facilitando a escolha do profissional mais adequado.
 
+[Documentação do projeto](https://docs.google.com/document/d/13gOxzB8zuAYRwqVptxj26siFOf7ejXupTKV4tazTGkE/edit?usp=sharing)
 ## Requisitos Funcionais
 
 ### Autenticação e Usuários
